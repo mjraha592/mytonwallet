@@ -189,7 +189,7 @@
     "@capacitor/ios": "^5.7.2",
     "@capacitor/status-bar": "^5.0.7",
     "@capgo/capacitor-native-biometric": "^5.1.0",
-    "@capgo/native-audio": "^6.2.7",
+    "@capgo/native-audio": "^6.4.23",
     "@ledgerhq/hw-transport-webhid": "^6.28.1",
     "@ledgerhq/hw-transport-webusb": "^6.28.1",
     "@mauricewegner/capacitor-navigation-bar": "^2.0.3",
