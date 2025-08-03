@@ -191,7 +191,7 @@
     "@capgo/capacitor-native-biometric": "^5.1.0",
     "@capgo/native-audio": "^6.2.7",
     "@ledgerhq/hw-transport-webhid": "^6.28.1",
-    "@ledgerhq/hw-transport-webusb": "^6.28.1",
+    "@ledgerhq/hw-transport-webusb": "^6.29.7",
     "@mauricewegner/capacitor-navigation-bar": "^2.0.3",
     "@ton-community/ton-ledger": "^7.0.1",
     "@ton/core": "^0.53.0",
