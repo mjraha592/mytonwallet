@@ -208,7 +208,7 @@
     "pako": "^2.1.0",
     "qr-code-styling": "github:troman29/qr-code-styling#c00d0",
     "qrcode-generator": "^1.4.4",
-    "tonapi-sdk-js": "^1.0.1",
+    "tonapi-sdk-js": "^1.1.2",
     "tonweb-mnemonic": "^1.0.1",
     "tweetnacl": "^1.0.3",
     "v8-compile-cache": "^2.4.0",
