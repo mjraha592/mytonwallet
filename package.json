@@ -206,7 +206,7 @@
     "idb-keyval": "^6.2.0",
     "native-bottom-sheet": "file:mobile/plugins/native-bottom-sheet",
     "pako": "^2.1.0",
-    "qr-code-styling": "github:troman29/qr-code-styling#c00d0",
+    "qr-code-styling": "1.9.2",
     "qrcode-generator": "^1.4.4",
     "tonapi-sdk-js": "^1.0.1",
     "tonweb-mnemonic": "^1.0.1",
