@@ -194,7 +194,7 @@
     "@ledgerhq/hw-transport-webusb": "^6.29.7",
     "@mauricewegner/capacitor-navigation-bar": "^2.0.3",
     "@ton-community/ton-ledger": "^7.0.1",
-    "@ton/core": "^0.53.0",
+    "@ton/core": "^0.61.0",
     "@ton/ton": "^13.9.0",
     "buffer": "^6.0.3",
     "capacitor-native-settings": "^5.0.1",
